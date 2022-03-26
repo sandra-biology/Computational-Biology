@@ -1,0 +1,2 @@
+After my programming courses I wanted to apply my knowledge to the data from my thesis project.
+I am taking what I have learned in the programming and bioinformatics courses and reworking my thesis data using Python approach.
